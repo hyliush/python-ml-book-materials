@@ -26,8 +26,10 @@
 
 1. 克隆或下载本仓库到本地
 
-2. 使用 Jupyter Notebook 打开 `.ipynb` 文件学习正文案例
+2. 下载数据文件到代码目录[https://drive.google.com/drive/folders/1nlMMYjzi4Uvp2tMhKXTaRr8NpzwBYP31?usp=drive_link]
 
-3. 直接运行 `.py` 文件执行实战与课后题代码
+3. 使用 Jupyter Notebook 打开 `.ipynb` 文件学习正文案例
 
-4. 部分开源数据需要手动下载，见代码内说明
+4. 直接运行 `.py` 文件执行实战与课后题代码
+
+5. 部分开源数据需要手动下载，见代码内说明
