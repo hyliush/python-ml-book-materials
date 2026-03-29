@@ -10,11 +10,11 @@
 
 - 多数章节包含三类代码文件：
 
-    - **正文代码**：对应教材核心知识点的演示与复现代码（`.ipynb`格式）
+    - **正文代码**：对应教材核心知识点的演示与复现代码
 
-    - **实战代码**：面向真实经管场景的完整案例实现（`.py`格式）
+    - **实战代码**：面向真实经管场景的完整案例实现
 
-    - **课后题代码**：章节习题的参考实现（`.py`格式）
+    - **课后题代码**：章节习题的参考实现
 
 - 覆盖降维、聚类、线性模型、SVM、树模型、金融风控、用户细分、神经网络、NLP等核心主题。
 
@@ -26,10 +26,8 @@
 
 1. 克隆或下载本仓库到本地
 
-2. 下载数据文件到代码目录[https://drive.google.com/drive/folders/1nlMMYjzi4Uvp2tMhKXTaRr8NpzwBYP31?usp=drive_link]
+2. 下载数据文件到代码目录（部分开源数据需要手动下载，见代码内说明）[https://drive.google.com/drive/folders/1nlMMYjzi4Uvp2tMhKXTaRr8NpzwBYP31?usp=drive_link]
 
-3. 使用 Jupyter Notebook 打开 `.ipynb` 文件学习正文案例
+4. 使用 Jupyter Notebook 打开 `.ipynb` 文件学习正文案例
 
-4. 直接运行 `.py` 文件执行实战与课后题代码
-
-5. 部分开源数据需要手动下载，见代码内说明
+5. 运行 `.py`或 `.ipynb`文件执行实战与课后题代码
